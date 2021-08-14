@@ -1,0 +1,16 @@
+asgiref==3.3.4
+Django
+gunicorn
+joblib
+numpy
+pandas
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+sklearn
+sqlparse
+threadpoolctl==2.1.0
+typing-extensions==3.10.0.0
+django_heroku
